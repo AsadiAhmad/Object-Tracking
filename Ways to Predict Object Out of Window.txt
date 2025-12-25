@@ -1,0 +1,8 @@
+1. Re-Detection Mechanism
+When tracking fails (object exits window), periodically re-run your detector
+
+2. Predictive Tracking
+Use motion prediction when object is near edges
+
+3. Multi-Scale Search Window
+Expand search area when confidence drops
